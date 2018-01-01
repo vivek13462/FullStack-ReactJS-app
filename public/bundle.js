@@ -22448,12 +22448,12 @@
 	        { className: "ContestPreview" },
 	        _react2.default.createElement(
 	            "div",
-	            null,
+	            { className: "category-name" },
 	            contest.categoryName
 	        ),
 	        _react2.default.createElement(
 	            "div",
-	            null,
+	            { className: "contest-name" },
 	            contest.contestName
 	        )
 	    );
